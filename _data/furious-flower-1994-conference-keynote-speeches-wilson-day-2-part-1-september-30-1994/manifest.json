@@ -13,9 +13,9 @@
     ],
     "provider": [
       {
-        "id": "",
+        "id": "James Madison University",
         "type": "Agent",
-        "label": { "en": [ "" ] }
+        "label": { "en": [ "James Madison University" ] }
       }
     ],
     "items": [
