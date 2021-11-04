@@ -5,7 +5,7 @@
     "label": { "en": [ "Furious Flower 1994 Conference: Keynote Speeches: Wilson, Day 2 Part 1, September 30, 1994" ] },
     "homepage": [
       {
-        "id": "",
+        "id": "https://www.jmu.edu/furiousflower/index.shtml",
         "type": "Text",
         "label": { "en": [ "Furious Flower 1994 Conference: Keynote Speeches: Wilson, Day 2 Part 1, September 30, 1994" ] },
         "format": "text/html"
@@ -13,9 +13,9 @@
     ],
     "provider": [
       {
-        "id": "",
+        "id": "https://www.jmu.edu/index.shtml",
         "type": "Agent",
-        "label": { "en": [ "" ] }
+        "label": { "en": [ "James Madison University" ] }
       }
     ],
     "items": [
