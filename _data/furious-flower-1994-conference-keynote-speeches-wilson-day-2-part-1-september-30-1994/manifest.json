@@ -13,7 +13,7 @@
     ],
     "provider": [
       {
-        "id": "James Madison University",
+        "id": "https://www.jmu.edu/index.shtml",
         "type": "Agent",
         "label": { "en": [ "James Madison University" ] }
       }
