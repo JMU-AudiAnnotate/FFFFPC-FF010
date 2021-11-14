@@ -16,14 +16,6 @@
         "id": "https://JMU-AudiAnnotate.github.io/FFFFPC-FF010/furious-flower-poetry-center-overview-part-1-2011-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3599,
-        "annotations": [
-          
-          {
-            "type": "AnnotationPage",
-            "id": "https://JMU-AudiAnnotate.github.io/FFFFPC-FF010/furious-flower-poetry-center-overview-part-1-2011-/canvas-1/canvas/speaker.json",
-            "label": "Speaker"
-          }
-        ],
         "items": [
           {
             "id": "https://JMU-AudiAnnotate.github.io/FFFFPC-FF010/furious-flower-poetry-center-overview-part-1-2011-/canvas-1/paintings",
