@@ -11,13 +11,6 @@
         "format": "text/html"
       }
     ],
-    "provider": [
-      {
-        "id": "",
-        "type": "Agent",
-        "label": { "en": [ "" ] }
-      }
-    ],
     "items": [
       {
         "id": "https://JMU-AudiAnnotate.github.io/FFFFPC-FF010/furious-flower-poetry-center-overview-part-1-2011-/canvas-1/canvas",
@@ -29,6 +22,12 @@
             "type": "AnnotationPage",
             "id": "https://JMU-AudiAnnotate.github.io/FFFFPC-FF010/furious-flower-poetry-center-overview-part-1-2011-/canvas-1/canvas/environment.json",
             "label": "Environment"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://JMU-AudiAnnotate.github.io/FFFFPC-FF010/furious-flower-poetry-center-overview-part-1-2011-/canvas-1/canvas/speaker.json",
+            "label": "Speaker"
           }
         ],
         "items": [
